@@ -1,6 +1,9 @@
 # leetcode
 leetcode
 
+![image](https://github.com/chiweichiu/leetcode/assets/11437097/30dff261-91f9-4088-986e-d5dfcc15be60)
+
+
 ## DP(dynamic programming)
 把複雜問題拆解成相對簡單的子問題<br>
 再利用保存了解決這些子問題的結果來減少複雜度<br>
